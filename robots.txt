@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fde-atlas.github.io/sitemap.xml
